@@ -30,4 +30,4 @@ Hyperparameters are included in our files and you can run interval.ipynb and poi
 
 ## Training Set and Results
 You can download the data from the website mentioned in our paper to train the network.  
-We have also provided our results in .tif format [results](https://drive.google.com/file/d/10A2VIEHm22DF_gyCufV-pbgUdYYhNJKf/view).
+We have also provided our [results](https://drive.google.com/file/d/10A2VIEHm22DF_gyCufV-pbgUdYYhNJKf/view) in .tif format for downloading.

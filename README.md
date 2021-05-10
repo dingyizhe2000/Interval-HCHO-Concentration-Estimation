@@ -15,10 +15,9 @@ Contact:  Bohan Jin [(2018200684@ruc.edu.cn)](2018200684@ruc.edu.cn); Yizhe Ding
 Notice that ReLU activations in the last block are disabled.
 
 ## Code Files
-Our project contains 5 code files:
+Our project contains 4 code files:
 - dataset.py
 - function.py
-- network.py
 - interval.ipynb
 - point.ipynb
 

@@ -27,3 +27,7 @@ Hyperparameters are included in our files and you can run interval.ipynb and poi
     <img src="https://github.com/dingyizhe2000/Interval-HCHO-Concentration-Estimation/blob/main/images/P.png" width="450"/></center>
 
     Point Estimation of Global 2019 HCHO Surface Concentration Distribution
+
+## Training Set and Results
+You can download the data from the website mentioned in our paper to train the network.  
+We have also provided our results in .tif format [results](https://drive.google.com/file/d/10A2VIEHm22DF_gyCufV-pbgUdYYhNJKf/view).
